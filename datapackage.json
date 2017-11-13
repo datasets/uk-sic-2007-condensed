@@ -3,10 +3,13 @@
   "name": "uk-sic-2007-condensed",
   "decription": "UK condensed standard industrial classification of economic activities (SIC) 2007 codes issued by Companies House are a subset of the codes published by the ONS whose copyright page supports an assumption of open data. Adapted from data from the Office for National Statistics licensed under the Open Government Licence v.3.0: https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic",
   "license": "OGL-UK-3.0",
-  "sources": [{
-    "name": "Company registration and filing – guidance - Standard industrial classification of economic activities (SIC)",
-    "web": "https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic"
-  }],
+  "sources": [
+    {
+      "name": "Company registration and filing – guidance - Standard industrial classification of economic activities (SIC)",
+      "path": "https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic",
+      "title": "Company registration and filing – guidance - Standard industrial classification of economic activities (SIC)"
+    }
+  ],
   "resources": [
     {
       "name": "uk-sic-2007-condensed",
