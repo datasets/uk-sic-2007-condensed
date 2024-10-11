@@ -11,9 +11,9 @@
   ],
   "sources": [
     {
-      "name": "Company registration and filing – guidance - Standard industrial classification of economic activities (SIC)",
+      "name": "Company registration and filing \u2013 guidance - Standard industrial classification of economic activities (SIC)",
       "path": "https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic",
-      "title": "Company registration and filing – guidance - Standard industrial classification of economic activities (SIC)"
+      "title": "Company registration and filing \u2013 guidance - Standard industrial classification of economic activities (SIC)"
     }
   ],
   "resources": [
@@ -53,5 +53,6 @@
         ]
       }
     }
-  ]
+  ],
+  "collection": "reference-data"
 }
