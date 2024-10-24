@@ -1,3 +1,5 @@
+<a href="https://datahub.io/core/uk-sic-2007-condensed"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+
 UK condensed standard industrial classification of economic activities (SIC) 2007 codes
 
 ## Data
